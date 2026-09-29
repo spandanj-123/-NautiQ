@@ -1,0 +1,6 @@
+{
+  "name": "NautiQ - GREENFLEET IQ",
+  "description": "Quantum-Inspired Fuel & Fleet Decision Engine for maritime logistics, emissions reduction, and alternative fuel routing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
